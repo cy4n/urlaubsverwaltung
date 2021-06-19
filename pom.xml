@@ -31,7 +31,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.4.2.RELEASE</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <properties>
@@ -47,11 +47,11 @@
         <swagger-springmvc.version>1.0.2</swagger-springmvc.version>
         <ews-java-api.version>2.0</ews-java-api.version>
         <httpcore.version>4.4.1</httpcore.version>
-        <httpclient.version>4.5</httpclient.version>
+        <httpclient.version>4.5.2</httpclient.version>
         <maven-release-plugin.version>2.5.3</maven-release-plugin.version>
         <coveralls-maven-plugin.version>4.1.0</coveralls-maven-plugin.version>
         <jacoco-maven-plugin.version>0.7.5.201505241946</jacoco-maven-plugin.version>
-        <google-api-client.version>1.23.0</google-api-client.version>
+        <google-api-client.version>1.28.0</google-api-client.version>
         <google-api-services-calendar.version>v3-rev281-1.23.0</google-api-services-calendar.version>
         <!-- Override Tomcat version from Spring Boot to address security issues,
            review this from time to time and when updating Spring Boot -->
